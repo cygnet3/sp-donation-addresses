@@ -15,3 +15,7 @@ Addresses:
   - name: Wasabi Wallet
     categories: Software development, Wallet
     sp: sp1qq2exrz9xjumnvujw7zmav4r3vhfj9rvmd0aytjx0xesvzlmn48ctgqnqdgaan0ahmcfw3cpq5nxvnczzfhhvl3hmsps683cap4y696qecs7wejl3
+  - name: Seth for privacy
+    categories: Education
+    sp: sp1qqvtg6a26w7ddww5t4t87sm729xzpqndcfnve0fu4tthp35gllm62kqcqf55f8a4fuf6avldszk5fw9vrlxpxr832hzrl4klrqdsvy9a4psshh08r
+    bip353: tips@sethforprivacy.com
